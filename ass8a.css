@@ -1,0 +1,51 @@
+
+body{
+			background-color: #f7f7f7;
+		}
+		#div1{
+			float: left;
+			width: 50%;	
+		}
+		#div2{
+			margin-top: 120px;
+			background-color:#3b5998; 
+			float: right;
+			width: 50%;
+		}
+		.div_within_div{
+			margin-left: 20px;
+		}
+		.effect{
+			color: gray;
+		}
+		.diff_color{
+			color: #3b5998;
+		} 
+		input{
+			border:1px solid red;
+		}
+		#btn1{
+			color:#3b5998;
+			margin-left: 220px;
+			border:2px solid #3b5998; 
+		}
+		#btn2{
+			margin-left: 680px;
+			border:2px solid orange;
+			color: white;
+			background-color:#3b5998;  
+			width: 70px;
+			height: 25px;
+		}
+		#anchor_tag{
+			
+			margin-left: 680px;
+		}
+		.div2_tag{
+			color:white;
+			margin-left: 20px;
+		}
+		#checkbox{
+			margin-left: 15px;
+		
+		}
